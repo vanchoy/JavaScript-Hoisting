@@ -14,7 +14,6 @@ var retirement = function(year) {        //function expression
 }
 
 
-
 // Hoisting also work with Variables
 console.log(age);  //undefined
 var age = 23;
